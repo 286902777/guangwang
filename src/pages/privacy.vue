@@ -419,31 +419,18 @@ const appName = 'Kivro'
   </div>
 </template>
 
-<style  scoped>
-  .agreement {
-    padding: 0px 25px;
+<style scoped>
+  .protocol {
     font-size: 14px;
     margin-bottom: 14px;
-    color: #666666;
-
+    color: #000;
+    margin-left:25px;
+    margin-right:25px;
     background-color: #fff;
   }
-  .T_title {
-    font-size: 18px;
-    font-weight: 600;
-    margin: 1rem 0px;
-    color: #666666;
-  }
-  .T_content {
-    font-size: 14px;
-    margin-bottom: 12px;
-    /* color: #666; */
-  }
-  .title_content {
-    font-size: 12px;
-    margin-bottom: 12px;
-    color: #666;
-    margin-left: 12px;
-    margin-right:12px;
+  .bt {
+    font-size: 20px;
+    margin: 6px 0px;
+    color: #7f1146;
   }
 </style>
