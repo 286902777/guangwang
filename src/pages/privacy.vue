@@ -414,23 +414,36 @@ const appName = 'Kivro'
       9. Contacting Us
     </div>
     If you have any questions about our Privacy Policy or any privacy-related
-    matters, please contact us via email at 【{{ appName }}@{{ appName }}.site】.
+    matters, please contact us via email at 【kennethl@hembreethurman.pics】.
     <br><br>
   </div>
 </template>
 
-<style scoped>
-  .protocol {
+<style  scoped>
+  .agreement {
+    padding: 0px 25px;
     font-size: 14px;
     margin-bottom: 14px;
-    color: #000;
-    margin-left:6px;
-    margin-right:6px;
+    color: #666666;
+
     background-color: #fff;
   }
-  .bt {
-    font-size: 20px;
-    margin: 6px 0px;
-    color: #7f1146;
+  .T_title {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 1rem 0px;
+    color: #666666;
+  }
+  .T_content {
+    font-size: 14px;
+    margin-bottom: 12px;
+    /* color: #666; */
+  }
+  .title_content {
+    font-size: 12px;
+    margin-bottom: 12px;
+    color: #666;
+    margin-left: 12px;
+    margin-right:12px;
   }
 </style>
