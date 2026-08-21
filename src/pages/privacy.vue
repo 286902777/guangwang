@@ -423,9 +423,8 @@ const appName = 'Kivro'
   .protocol {
     font-size: 14px;
     margin-bottom: 14px;
-    color: #fff;
-    margin-left:25px;
-    margin-right:25px;
+    color: #000;
+    padding: 0px 25px;
     background-color: #fff;
   }
   .bt {
